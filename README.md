@@ -1,4 +1,4 @@
-# Jang Mirae 🌱
+# Jang Mirae
 
 ## Stack.
 <span><img src="https://img.shields.io/badge/HTML5-dd4b25?style=for-the-badge&logo=HTML5&logoColor=white&prefix=hello" /></span>
