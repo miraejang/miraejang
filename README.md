@@ -1,5 +1,7 @@
 # Jang Mirae
-
+안녕하세요😊   
+가장 효율적인 해결책을 고민하는 프론트엔드 개발자 입니다.   
+　   
 ## Stack.
 <span><img src="https://img.shields.io/badge/HTML5-dd4b25?style=for-the-badge&logo=HTML5&logoColor=white&prefix=hello" /></span>
 <span><img src="https://img.shields.io/badge/CSS3-146eb0?style=for-the-badge&logo=CSS3&logoColor=white" /></span>
