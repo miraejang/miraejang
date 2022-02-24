@@ -10,4 +10,10 @@
 <span><img src="https://img.shields.io/badge/React-17b6e7?style=for-the-badge&logo=React&logoColor=white" /></span>
 
 <span><img src="https://img.shields.io/badge/Git-e83a2d?style=for-the-badge&logo=Git&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" /></span>   
+　   
+## Stats Card.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraejang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   
+　   
+## Top Languages Card.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraejang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
