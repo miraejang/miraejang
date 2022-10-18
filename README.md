@@ -8,6 +8,7 @@
 <span><img src="https://img.shields.io/badge/JavaScript-ffc100?style=for-the-badge&logo=JavaScript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/React-17b6e7?style=for-the-badge&logo=React&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white" /></span>
 
 <span><img src="https://img.shields.io/badge/Git-e83a2d?style=for-the-badge&logo=Git&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" /></span>   
